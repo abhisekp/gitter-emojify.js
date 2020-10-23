@@ -44,7 +44,7 @@
     "jsdom": "^1.1.0",
     "jshint-stylish": "~1.0.0",
     "jstest": "~1.0.4",
-    "minimatch": "~1.0.0",
+    "minimatch": "~3.0.4",
     "phantomjs-prebuilt": "^2.1.7",
     "q": "^1.0.1",
     "through2": "~0.6.3"
